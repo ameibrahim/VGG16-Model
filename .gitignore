@@ -1,2 +1,2 @@
-/data
-*.keras
+__data
+/*.keras
